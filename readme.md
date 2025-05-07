@@ -18,6 +18,18 @@ A lightweight WordPress plugin that displays a customizable reading progress bar
 
 ---
 
+## 📸 Screenshots
+
+Reminder bar
+
+![Scroll Reminder Bar](https://ps.w.org/scroll-reminder-by-eskim/assets/screenshot-1.png) 
+
+Admin bar
+
+![Settings Page](https://ps.w.org/scroll-reminder-by-eskim/assets/screenshot-2.png)
+
+---
+
 ## 🔧 Installation
 
 1. Download or clone the repository
