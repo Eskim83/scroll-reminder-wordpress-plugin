@@ -18,16 +18,6 @@ A lightweight WordPress plugin that displays a customizable reading progress bar
 
 ---
 
-## 📸 Screenshots
-
-> *(You can add real screenshots later in `/assets/`)*
-
-| Progress Bar | Admin Settings |
-|--------------|----------------|
-| ![Scroll Reminder Bar](assets/screenshot-1.png) | ![Settings Page](assets/screenshot-2.png) |
-
----
-
 ## 🔧 Installation
 
 1. Download or clone the repository
