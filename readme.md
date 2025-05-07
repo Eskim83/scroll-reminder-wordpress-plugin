@@ -1,6 +1,6 @@
 # Scroll Reminder by Eskim
 
-[![WordPress Plugin](https://img.shields.io/wordpress/plugin/v/scroll-reminder.svg)](https://wordpress.org/plugins/scroll-reminder/)
+[![WordPress Plugin](https://img.shields.io/wordpress/plugin/v/scroll-reminder-by-eskim.svg)](https://wordpress.org/plugins/scroll-reminder-by-eskim/)
 [![License](https://img.shields.io/badge/license-GPLv2-blue.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
 
 A lightweight WordPress plugin that displays a customizable reading progress bar and optional percentage indicator as the user scrolls through a post.
