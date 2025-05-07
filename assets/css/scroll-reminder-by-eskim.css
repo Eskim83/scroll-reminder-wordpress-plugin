@@ -1,0 +1,17 @@
+/**
+ * Scroll Reminder – Basic Styles
+ * Author: Eskim
+ * Description: CSS for the reading progress bar and percentage display.
+ */
+
+/* Pasek postępu */
+#scroll-reminder-by-eskim-bar {
+	transition: width 0.2s ease;
+}
+
+/* Opcjonalne: style dla animacji lub dodatkowego efektu można dodać tutaj */
+
+/* Pasek procentowy – dodatkowe style mogą być dodane inline w JS */
+#scroll-reminder-by-eskim-percent {
+	/* Domyślnie stylowany z poziomu JS */
+}
